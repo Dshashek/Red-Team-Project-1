@@ -3,7 +3,7 @@
 #Team Members: Derek Shashek, Howard Mitchell, Pramit Ghosh, and Aly Smith
 
 #Outline:
-#	We will be compiling data sets related to MLB baseball teams including weather conditions, metropolitan statistics, and stadium prices. #We will be comparing the affects of the above data sets on the attendance for each team and discussing why the analysis of these factors #are helpful for revenue projections.
+#We will be compiling data sets related to MLB baseball teams including weather conditions, metropolitan statistics, and stadium prices. We will be comparing the affects of the above data sets on the attendance for each team and discussing why the analysis of these factors are helpful for revenue projections.
 
 #Questions: 
 #Does the weather (temperature and conditions) affect the attendance per game for each team throughout 2016?
