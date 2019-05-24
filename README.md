@@ -18,4 +18,6 @@
 
 #source for team stats data: https://www.kaggle.com/omipelcastre/mlb-team-statistics-20182003
 
+#US Census Data for Metropolitian areas: https://www.census.gov/programs-surveys/metro-micro/data/tables.All.html
+
 #the .gitignore file is set to ignore config.py in the top level directory.  I'm assuming this will require us to use API keys so put yours Group-Project-1/config.py
