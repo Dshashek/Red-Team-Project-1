@@ -5,10 +5,10 @@
 #Outline: We will be compiling data sets related to MLB baseball teams including weather conditions, metropolitan statistics, team win records, and team salary totals. We will be comparing the affects of the above data sets on the attendance for each team and discussing why the analysis of these factors are helpful for revenue projections.
 
 #Questions: 
-#Does the weather (temperature and conditions) affect the attendance per game for each team throughout 2016?
-#Does the metropolitan size affect the average attendance for each stadium over a 10- year span (considering the stadium capacity as well)?
-#Do the team win records per season affect the attendance per season across a 10-year span? Does whether or not a team making it into post season affect attendance as well?
-#Does the total team salary each season affect the attendence per season across a 10-year span?
+Does the weather (temperature and conditions) affect the attendance per game for each team throughout 2016?
+Does the metropolitan size affect the average attendance for each stadium over a 10- year span (considering the stadium capacity as well)?
+Do the team win records per season affect the attendance per season across a 10-year span? Does whether or not a team making it into post season affect attendance as well?
+Does the total team salary each season affect the attendence per season across a 10-year span?
 
 #Datasets:
 
