@@ -1,4 +1,4 @@
-**Project 1: MLB Attendance Analysis
+**Project 1: MLB Attendance Analysis**
 
 Red Team Members: Derek Shashek, Howard Mitchell, Pramit Ghosh, and Aly Smith
 
