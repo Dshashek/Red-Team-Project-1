@@ -15,9 +15,13 @@ Do the team win records per season affect the attendance across a 10-year span? 
 Does the total team salary each season affect the attendence per season across a 10-year span?
 
 Datasets:
+
 source for salary and attendance data: https://www.baseball-reference.com/leagues/MLB/2006-misc.shtml
+
 source for 2016 weather data: https://www.kaggle.com/cyaris/2016-mlb-season
+
 source for team stats data: https://www.kaggle.com/omipelcastre/mlb-team-statistics-20182003
+
 US Census Data for Metropolitian areas: https://www.census.gov/programs-surveys/metro-micro/data/tables.All.html
 
 Task Breadown:
