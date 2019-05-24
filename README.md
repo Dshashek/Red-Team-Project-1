@@ -1,10 +1,11 @@
 Project 1: MLB Attendance Analysis
 
-Team Members: Derek Shashek, Howard Mitchell, Pramit Ghosh, and Aly Smith
+Red Team Members: Derek Shashek, Howard Mitchell, Pramit Ghosh, and Aly Smith
 
 Outline: We will be compiling data sets related to MLB baseball teams including weather conditions, metropolitan statistics, team win records, and team salary totals. We will be comparing the affects of the above data sets on the attendance for each team and discussing whether there are direct correlations between them.
 
 Questions: 
+
 Does the weather (temperature and conditions) affect the attendance per game for each team throughout 2016?
 
 Does the metropolitan size affect the average attendance for each stadium over a 10- year span (considering the stadium capacity as well)?
