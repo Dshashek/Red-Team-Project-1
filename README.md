@@ -17,9 +17,13 @@ source for team stats data: https://www.kaggle.com/omipelcastre/mlb-team-statist
 US Census Data for Metropolitian areas: https://www.census.gov/programs-surveys/metro-micro/data/tables.All.html
 
 #Task Breadown:
+
 #Pramit - weather analysis
+
 #Derek - metropolitan analysis
+
 #Howard - wins analysis
+
 #Aly - salary analysis
 
 
