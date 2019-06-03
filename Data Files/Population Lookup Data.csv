@@ -2,6 +2,8 @@
 ARI,Chase Field,"48,686","Pheonix, AZ",Arizona Diamondbacks,,AZ
 ATL,SunTrust Park,"41,084","Cumberland, GA",Atlanta Braves,122,GA
 BAL,Oriole Park,"45,971","Baltimore, MD",Baltimore Orioles,548,MD
+BAL,Oriole Park,"45,971","Baltimore, MD",Baltimore Orioles,548,DC
+BAL,Oriole Park,"45,971","Baltimore, MD",Baltimore Orioles,548,VA
 BOS,Fenway Park,"37,755","Boston, MA",Boston Red Sox,148,MA
 CHC,Wrigley Frield,"41,649","Chicago, IL",Chicago Cubs,176,IL
 CHC,Wrigley Frield,"41,649","Chicago, IL",Chicago Cubs,176,IN
@@ -47,3 +49,5 @@ TBR,Tropicana Field,"25,000","St. Petersburg, FL",Tampa Bay Rays,,FL
 TEX,Global Life Park,"48,114","Arlington, TX",Texas Rangers,206,TX
 TOR,Rogers Center,"49,282","Toronto, ON",Toronto Blue Jays,,ON
 WSH,National Park,"41,339","Washington, D.C.",Washington Nationals,548,DC
+WSH,National Park,"41,339","Washington, D.C.",Washington Nationals,548,MD
+WSH,National Park,"41,339","Washington, D.C.",Washington Nationals,548,VA
